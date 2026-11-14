@@ -1,0 +1,11 @@
+{
+  "appId": "com.mahii.social",
+  "appName": "MAHII Social",
+  "latestVersionName": "1.0.0",
+  "latestVersionCode": 1,
+  "downloadUrl": "https://github.com/cto-semiquantum/mahii-releases/releases/download/social-v1.0.0/mahii-social-debug.apk",
+  "fileSize": "23.4 MB",
+  "releaseNotes": "Official Stable Release of MAHII Social:\n• High-fidelity dark purple UI inspired by MAHII Music\n• In-app OTA System Updates\n• Feed & Creator Profile exploration\n• Integrated ecosystem handoff with MAHII Music",
+  "releaseDate": "2026-11-14",
+  "mandatoryUpdate": false
+}
